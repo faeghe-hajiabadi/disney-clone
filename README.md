@@ -16,7 +16,8 @@ A modern, responsive **Disney+ Clone** built using **React.js**, **Tailwind** fe
 
 ## Demo
 
-Check out the live version of the project here: ![Demo](./video.gif) (Insert deployment link)
+Check out the live version of the project here: 
+![Demo](./video.gif)
 
 ---
 
